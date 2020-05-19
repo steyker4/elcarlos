@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  
+  <title>InfoTec</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="icon" href="img/mosquito.ico"/>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
+</head>
+ <style>
+  body {
+      position: relative; 
+  }
+  </style>
+</head>
+<body data-spy="scroll" data-target=".navbar" data-offset="50" class="bg-light">
+<nav class="navbar navbar-expand-sm bg-dark navbar-dark fixed-top"> 
+ 
+  <ul class="navbar-nav">
+    <li class="nav-item">
+      <a class="nav-link" href="file:///F:/usuarios/alumno/Escritorio/bootstrap/pagina%20principal/hola%2011p.html">inicio</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link" href="#section1">temas </a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link" href="#section3">informacion y fuentes</a>
+    </li>
+    <li class="nav-item dropdown">
+    </li>
+  </ul>
+</nav>
+
+
+<br>
+<br>
+<div class="bg-light text-black">
+<div>
+<div class="bg-warning text-dark">
+    <div class="text-center">
+        <br><h2>InfoTec</h2>
+      
+                            <h3>Peligros Alrededor Del Mundo y Curiosidades</h3> </div><br><br>
+    </div>
+      </div>
+      <br>
+      <br>
+
+</div>
+  <br>
+<div class="container bg-light" id="section1">
+<br>
+<br>
+<h3><strong><kbd>seleccion de temas</kbd></strong></h3>
+ <strong><br>
+  <div class="row">
+    <div class="col"><h2>El bullying</h2>
+      <div class="container">
+  <a title="bullying" href="file:///F:/usuarios/alumno/Escritorio/bootstrap/pagina%204%20bullying/hola%204.html"><img src="estesi1.jpg" class="rounded" alt="bullyng" style="width:100%;height:75%;"></a><br><br>El acoso escolar
+    </div></div>
+
+    <div class="col"><h2>El reciclaje</h2>
+      <a title="reciclaje" href="file:///F:/usuarios/alumno/Escritorio/bootstrap/pagina%207%20Reciclaje/hola%207.html"><img src="estesi2.jpg" class="rounded" alt="bullyng" style="width:100%;height:60%;"></a><br>Su importancia y beneficios
+        </div>
+  
+        <div class="col"><h2>Alan kay</h2>
+          <a title="Alan kay" href="file:///F:/usuarios/alumno/Escritorio/bootstrap/pagina%206%20Alan%20kay/hola%206.html"><img src="estesi.jpg" class="rounded" alt="bullyng" style="width:100%;height:60%;"></a><br>Historia del informatico Alan kay
+            </div></div>
+</div>
+<div class="container">
+<div class="row">
+  <div class="col"><h2>El Dengue</h2>
+    <div class="container">
+<a title="Dengue" href="file:///F:/usuarios/alumno/Escritorio/bootstrap/pagina%201%20dengue/hola.html"><img src="mosquito.jpg" class="rounded" alt="bullyng" style="width:100%;height:10%;"></a><br>Enfermedad Transmitida Por Mosquitos
+  </div></div>
+
+  <div class="col"><h2>El coronavirus</h2>
+    <a title="coronavirus" href="file:///F:/usuarios/alumno/Escritorio/bootstrap/pagina%203%20coronavirus/hola%203.html"><img src="covid2.jpg" class="rounded" alt="bullyng" style="width:100%;height:67%;"></a><br>La Nueva Pandemia Que Golpea Al Mundo
+      </div>
+
+      <div class="col"><h2>El ciberbullying</h2>
+        <a title="Ciberbullying" href="file:///F:/usuarios/alumno/Escritorio/bootstrap/pagina%205%20ciberbullying/hola%205.html"><img src="unnamed.jpg" class="rounded" alt="bullyng" style="width:100%;height:67%;"></a><br>El Acoso Por Las Redes
+          </div></div>
+          <div class="container">
+            <div class="row">
+              <div class="col"><h2>EL SO de Windows</h2>
+                <div class="container">
+            <a title="Windows" href="file:///F:/usuarios/alumno/Escritorio/bootstrap/pagina%2010%20windows/hola%2010.html"><img src="Windows.jpg" class="rounded" alt="bullyng" style="width:100%;height:10%;"></a><br>La Historia de Windows
+              </div></div>
+            
+              <div class="col"><h2>La dislexia</h2>
+                <a title="Dislexia" href="file:///F:/usuarios/alumno/Escritorio/bootstrap/pagina%208%20dislexia/hola%208.html"><img src="dislexia.jpg" class="rounded" alt="bullyng" style="width:100%;height:67%;"></a><br>La Dificultad Para Hablar
+                  </div>
+            
+                  <div class="col"><h2>El sO de Android</h2>
+                    <a title="Android" href="file:///F:/usuarios/alumno/Escritorio/bootstrap/pagina%209%20adquisicion%20de%20android/hola%209.html"><img src="android.jpg" class="rounded" alt="bullyng" style="width:100%;height:67%;"></a><br>La Historia De Android
+                      </div></div>
+                      
+                        <div class="row">
+                          <div class="col"><h2>chikunguya</h2>
+                            <div class="container">
+                        <a title="chikunguya" href="file:///F:/usuarios/alumno/Escritorio/bootstrap/pagina%202%20chikunguya/hola%202.html"><img src="chikunguya.jpg" class="rounded" alt="bullyng" style="width:30%;height:10%;"></a><br>La Otra Enfermedad Transmitida por Mosquitos
+                          </div>
+                        
+  </strong>
+</div>
+</strong>
+</div>
+
+<br>
+
+<div class="container" id="section3">
+<strong>
+<br>
+<br>
+  <h2><kbd>informacion de la pagina</kbd></h2>
+  
+  <p>
+  
+  </strong>
+  <strong>
+   En esta pagina veras informacion sobre varios temas<br>
+   como: enfermedades, acoso, o curiosidades informaticas como el so de windows o android.<br>
+
+   
+  
+  </strong></p>
+  			</div>
+		</div>
+	</div>
+    <br>
+    <div class="bg-dark">
+    <div class="container bg-dark">
+   <strong><h5><kbd>fuentes:</kbd></h5></strong>
+   <a title="bullying" href="https://es.wikipedia.org/wiki/Microsoft_Windows"class="text-warning"><strong>windows</strong></a><br>
+   <a title="bullying" href="https://es.wikipedia.org/wiki/Android"class="text-warning"><strong>Android</strong></a><br>
+   <a title="bullying" href="https://www.mayoclinic.org/es-es/diseases-conditions/dyslexia/symptoms-causes/syc-20353552"class="text-warning"><strong>La dislexia</strong></a><br>
+   <a title="bullying" href="https://es.wikipedia.org/wiki/Reciclaje"class="text-warning"><strong>La importancia del reciclaje</strong></a><br>
+   <a title="bullying" href="https://es.wikipedia.org/wiki/Alan_Kay"class="text-warning"><strong>El Informatico Alan kay</strong></a><br>
+   <a title="bullying" href="https://www.ciberbullying.com/cyberbullying/que-es-el-ciberbullying/"class="text-warning"><strong>El Ciberbullying</strong></a><br>
+   <a title="bullying" href="https://www.euroresidentes.com/estilo-de-vida/sentir-bien/como-prevenir-el-bullying"class="text-warning"><strong>El Bullying</strong></a><br>
+   <a title="bullying" href="https://es.wikipedia.org/wiki/Chikungu%C3%B1a"class="text-warning"><strong>chikunguya</strong></a><br>
+   <a title="bullying" href="https://es.wikipedia.org/wiki/Pandemia_de_enfermedad_por_coronavirus_de_2019-2020"class="text-warning"><strong>El covid-s19</strong></a><br>
+   <a title="bullying" href="https://www.argentina.gob.ar/salud/glosario/dengue"class="text-warning"><strong>El Dengue</strong></a><br>
+  </div>
+  <br>
+  <br>
+ 
+</div>
+  
+
+    </div>
+
+<div id=section4 class="container bg-dark">
+      </div>
+    
+    </div>
+<div class="bg-dark text-white"></div>
+</div>
+</body>
+</html>
